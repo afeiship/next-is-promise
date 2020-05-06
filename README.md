@@ -1,13 +1,15 @@
 # next-is-promise
-> Test whether an object looks like a promisesA+ promise
+> Test whether an object looks like a promises-a+ promise.
 
 ## installation
 ```bash
-npm install -S afeiship/next-is-promise --registry=https://registry.npm.taobao.org
+npm install -S @feizheng/next-is-promise
 ```
 
 ## usage
 ```js
+import '@feizheng/next-is-promise';
+
 //DOCS here!
 ```
 
