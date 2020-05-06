@@ -5,7 +5,11 @@
   var FUNC = 'function';
 
   nx.isPromise = function (inObj) {
-    return !!inObj && (typeof inObj === OBJ || typeof inObj === FUNC) && typeof obj.then === FUNC;
+    return (
+      !!inObj &&
+      (typeof inObj === OBJ || typeof inObj === FUNC) &&
+      typeof inObj.then === FUNC
+    );
   };
 
   if (typeof module !== 'undefined' && module.exports) {
