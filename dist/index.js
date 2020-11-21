@@ -3,7 +3,7 @@
  * description: Test whether an object looks like a promises-a+ promise.
  * homepage: https://github.com/afeiship/next-is-promise
  * version: 1.0.0
- * date: 2020-11-21 10:52:29
+ * date: 2020-11-21 10:53:49
  * license: MIT
  */
 
